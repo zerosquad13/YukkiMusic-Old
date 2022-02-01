@@ -8,7 +8,7 @@ Full Credit is Given to [@TeamYukki](https://t.me/OfficialYukki) as the owner & 
 
 ### Deploy To Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/levina-lab/YukkiMusic-Old)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zerosquad13/YukkiMusic-Old)
 
 ## VPS Deployment 📡
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
